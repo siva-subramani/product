@@ -1,0 +1,27 @@
+0
+
+copyright_0
+Multi-languages
+
+¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Message
+
+1
+
+copyright_1
+Multi-languages
+
+© Your Company. All rights reserved.¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Copyright
+
+2
+upload
+copyright_2
+
+
+
+true
+image
+

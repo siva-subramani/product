@@ -1,0 +1,4 @@
+2016-11-21 1.0.3			// Fix extra issue
+2016-11-17 1.0.2			// Move css, image, config to theme
+2016-11-07 1.0.1			// Add Manage Theme
+2016-07-27 1.0.0			// Created

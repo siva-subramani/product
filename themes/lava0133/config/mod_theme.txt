@@ -1,0 +1,90 @@
+
+
+theme_0
+
+
+Monura
+
+Theme Name
+
+
+
+theme_1
+
+
+1.1
+
+Theme Version
+
+
+
+theme_2
+
+
+2016/11/13
+
+Theme Date
+
+
+textarea
+theme_3
+
+
+13302
+
+Theme Styles
+
+
+
+theme_4
+
+
+13302
+
+Selected Style
+
+
+textarea
+theme_5
+
+
+Theme 133 02
+
+Theme Description
+
+
+textarea
+theme_6
+
+
+
+
+Theme Color
+
+
+select
+theme_7
+
+
+
+
+Modules
+background|contact|slider|advtop|advbot|reassure|product|topmenu|news|social|boostrap
+
+
+theme_8
+
+
+theme1
+
+Selected Color
+
+
+
+theme_9
+
+
+
+
+Color File Name
+

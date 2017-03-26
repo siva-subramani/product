@@ -1,0 +1,13 @@
+1485839023
+s:1386:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 31 Jan 2017 03:00:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1075
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22315","name":"ps_contactinfo","displayName":"Contact information","categoryName":"Natif","description":"Allows you to display additional information about your store's customer service","author":"PrestaShop","url":"http:\/\/addons.prestashop.com\/product.php?id_product=22315?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-EN&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22315.jpg","fullDescription":"Allows you to display additional information about your store's customer service.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"1.0.5","last_update":"2017-01-30 04:56:55","compatibility":{"from":"1.7.0.0","to":"1.7.0.4"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/.jpg"}}]}";

@@ -1,0 +1,243 @@
+
+
+product_0
+Multi-languages
+
+Popular¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Tab Featured
+
+
+
+product_1
+Multi-languages
+
+New arrivals¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Tab Latest
+
+
+
+product_2
+Multi-languages
+
+Best Sellers¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Tab Bestsellers
+
+
+
+product_3
+Multi-languages
+
+Specials¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Tab Specials
+
+
+
+product_4
+
+
+
+true
+Image Widh
+
+
+
+product_5
+
+
+
+true
+Image Height
+
+
+
+product_6
+
+
+
+true
+Limit
+
+
+select
+product_7
+
+
+8
+true
+Number of products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+autoproduct
+product_8
+
+
+
+true
+Featured Products
+
+
+select
+product_9
+
+
+false
+true
+Randomly display featured products
+true|false
+
+
+product_10
+
+
+3
+true
+Category from which to pick products to be displayed
+
+
+select
+product_11
+
+
+12
+true
+Number of new products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+select
+product_12
+
+
+8
+true
+Number of featured products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+select
+product_13
+
+
+6
+true
+Number of best products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+select
+product_14
+
+
+5
+true
+Number of specials products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+
+product_15
+
+
+30
+true
+Number of days for which the product is considered 'new'
+
+
+autocategory
+product_16
+
+
+3,4,7,11
+true
+Featured Category ID
+
+
+select
+product_17
+
+
+4
+true
+Number of products to be displayed
+|1|2|3|4|5|6|7|8|9|10|11|12
+
+select
+product_18
+
+
+
+true
+Tab Effect
+|cl-effect-1|cl-effect-2|cl-effect-3|cl-effect-4|cl-effect-5|cl-effect-6|cl-effect-7|cl-effect-8|cl-effect-9|cl-effect-10|cl-effect-11|cl-effect-12|cl-effect-13|cl-effect-14|cl-effect-15|cl-effect-16|cl-effect-17|cl-effect-18|cl-effect-19|cl-effect-20|cl-effect-21
+
+upload
+product_19
+
+
+
+true
+Banner
+
+
+
+product_20
+
+
+
+
+Li effect Featured
+zoom rollup wow slideInRight
+
+
+product_21
+
+
+
+
+Li effect New
+zoom rollup wow slideInRight
+
+
+product_22
+Multi-languages
+
+¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Title
+
+
+textarea
+product_23
+Multi-languages
+
+¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+Info
+
+
+
+product_24
+Multi-languages
+
+¤en|¤fr|¤es|¤de|¤ar|¤zh|
+true
+More
+
+
+
+product_25
+
+
+
+true
+Banner Link
+
+
+
+product_26
+
+
+
+
+tpl file
+

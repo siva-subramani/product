@@ -1,0 +1,283 @@
+@media only screen and (min-width: 768px) {
+#columns { padding-top: 20px; }
+ }
+@media only screen and (min-width: 992px) {
+#columns { padding-top: 30px; }
+ }
+@media only screen and (min-width: 1200px) {
+#columns { padding-top: 40px; }
+ }
+@media only screen and (min-width: 1200px) {
+#columns #columns_top, #columns #slider_row { margin: 0 auto; }
+ }
+@media only screen and (max-width: 767px) {
+header .nav { height: auto; }
+ }
+@media only screen and (min-width: 1200px) {
+header .nav { margin-right: -15px;   margin-left: -15px; }
+ }
+@media only screen and (min-width: 1200px) {
+header .content { margin-right: -15px;   margin-left: -15px; }
+ }
+#header .menu { border-width: 0 0 2px 0;     border-style: solid; }
+@media only screen and (max-width: 767px) {
+#header .menu { line-height: inherit; }
+ }
+.footer-container #footer { padding-top: 80px;     padding-bottom: 30px; }
+@media only screen and (max-width: 767px) {
+#main #slider { padding: 0; }
+ }
+@media only screen and (min-width: 1200px) {
+#index #columns { max-width: 100%;  }
+ }
+#header .nav .row { max-width: 1180px;   margin: 0 auto; }
+@media only screen and (max-width: 767px) {
+#header_right { width: 50%;     padding: 0; }
+ }
+#index .tab-content ul li .product-container { text-align: center; }
+#uhu_tj_9502 #more_info_sheets ul.pd li h5 { margin: 0; }
+#uhu_gj_9531 { float: left; }
+#uhu_gj_9531 { padding: 0; }
+#uhu_gj_9531 .block_content { max-width: 1180px; }
+#uhu_gj_9551 { margin-top: 0;   margin-bottom: 0; }
+#uhu_gj_9551 .block_content { max-width: 1180px; }
+#uhu_reassure_home { margin-top: 30px;     padding: 0; }
+#uhu_reassure_home .block_content { border-width: 1px 0 0;   border-style: solid; }
+@media only screen and (max-width: 767px) {
+#header_left { width: 50%;     padding: 0; }
+ }
+@media only screen and (max-width: 767px) {
+.nav .header_user_info { display: none; }
+ }
+header .content .row #logo { text-align: center; }
+@media only screen and (max-width: 767px) {
+header .content .row #logo { padding: 0; }
+ }
+header .content .row #logo { display: block; }
+@media only screen and (min-width: 768px) {
+header .content .row #logo { display: none; }
+ }
+@media only screen and (max-width: 767px) {
+#header .nav #search_block_top .button, #header .nav #search_block_top .btn.button-search { border-color: transparent !important; }
+ }
+#header .nav #search_block_top .button, #header .nav #search_block_top .btn.button-search { left: initial; }
+@media only screen and (max-width: 767px) {
+#search_block_top .btn.button-search:before { font-size: 13px; }
+ }
+#uhu_tj_9502 h4 { border: none; margin-bottom: 10px; }
+#uhu_gj_9531 ul li .item-title { position: absolute;     top: 35%;     display: block;     width: 100%;     text-align: center;     z-index: 2;     padding: 0;     margin: 0; }
+#uhu_gj_9531 ul li .item-title { font-size: 24px; }
+@media only screen and (min-width: 992px) {
+#uhu_gj_9531 ul li .item-title { font-size: 30px;  }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_gj_9531 ul li .item-title { font-size: 40px;  }
+ }
+#uhu_gj_9531 ul li .item-html { position: absolute;     bottom: 35%;     display: block;     width: 100%;     text-align: center;     z-index: 2; }
+#uhu_gj_9551 ul li .item-title { top: 35%; }
+#uhu_gj_9551 ul li .item-title { font-size: 24px; }
+@media only screen and (min-width: 992px) {
+#uhu_gj_9551 ul li .item-title { font-size: 30px; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_gj_9551 ul li .item-title { font-size: 40px; }
+ }
+#uhu_gj_9551 ul li .item-html { bottom: 35%; }
+#uhuslider .block_content ul li .slide_content { width: 50%; }
+@media only screen and (max-width: 767px) {
+#uhuslider .block_content ul li .slide_content { width: 70% !important;     left: 15% !important; }
+ }
+#index ul.product_list.tab-pane li { margin-bottom: 30px !important;    padding: 0 15px;  text-align: center; }
+#uhu_categories_home { position: absolute;     text-align: center;     width: 100%;     top: 34%;     font-size: 35px;     line-height: 45px; }
+@media only screen and (max-width: 767px) {
+#uhu_categories_home { line-height: 25px !important;     font-size: 16px !important; }
+ }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#uhu_categories_home { line-height: 25px !important;     font-size: 16px !important; }
+ }
+
+#uhuslider .block_content { padding: 0; }
+@media only screen and (min-width: 1200px) {
+#uhuslider .block_content { max-width: 1180px;   margin: 0 auto; }
+ }
+#uhu_gj_9551 ul { margin: 0; }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#uhu_gj_9551 ul li.ad2 { float: right; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_gj_9551 ul li.ad2 { float: right; }
+ }
+#uhu_gj_9551 ul li { padding-left: 0;     padding-right: 0;     margin-bottom: 0; }
+#uhu_gj_9551 ul li .image-container { padding: 0; }
+.advertising .block_content ul li .image-container::after { background: rgba(125, 125, 125, 0.5); }
+#uhuslider .block_content ul li img.logo { max-width: 100%;     left: 5%;     bottom: 0; }
+@media only screen and (max-width: 767px) {
+#uhuslider .block_content ul li img.logo { max-width: 30%; }
+ }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#uhuslider .block_content ul li img.logo { max-width: 30%; }
+ }
+#home-page-tab { width: 100%; }
+@media only screen and (min-width: 1200px) {
+#home-page-tab { width: 1210px; margin: 0 auto; }
+ }
+#index ul.product_list.tab-pane { margin: 0 -15px; }
+#index ul.product_list.tab-pane li .product-container { padding: 10px;   display: inline-block; }
+#uhu_reassure_home ul li .list-container { margin-bottom: 0; min-height: 140px; padding: 30px 15px; text-align: center; }
+@media only screen and (max-width: 767px) {
+#uhu_reassure_home ul li .list-container { min-height: 100px; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_reassure_home ul li .list-container { padding: 30px 15px; }
+ }
+#uhu_contactus_bottom { margin: 0;     padding: 60px 0; }
+#index .nav-tabs li { border: none;     padding: 0;     margin: 0 50px 0 0; }
+@media only screen and (min-width: 1200px) {
+#header .row { max-width: 1170px; }
+ }
+#uhu_reassure_home ul li i { font-size: 45px;   line-height: 60px;   text-align: center;   width: 60px;   height: 60px;   display: inline-block;   border-radius: 30px;   float: none;   margin-right: 0; margin-bottom: 15px; }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+.content_scene_cat { margin-top: 52px; }
+ }
+@media only screen and (min-width: 1200px) {
+.content_scene_cat { margin-top: 52px; }
+ }
+#uhu_contactus_bottom .logo { display: inline-block;   position: static;   width: 100%;   float: left; padding-right: 0; padding-bottom: 15px; }
+@media only screen and (min-width: 768px) {
+#uhu_contactus_bottom .logo { width: 50%;   padding-right: 15px; padding-bottom: 0; }
+ }
+@media only screen and (min-width: 992px) {
+#uhu_contactus_bottom .logo { width: 50%;   padding-right: 15px; padding-bottom: 0; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_contactus_bottom .logo { width: 50%;   padding-right: 15px; padding-bottom: 0; }
+ }
+#uhu_contactus_bottom .logo img { max-width: 100%; }
+#uhu_contactus_bottom .block_content { max-width: 1170px;     margin: 0 auto;     display: table;     text-align: center; }
+header .row #logo a .title { line-height: 50px;     height: 50px; }
+header .row #logo a { margin-bottom: 10px; }
+@media only screen and (max-width: 767px) {
+header .row #logo a { margin: 20px 0; }
+ }
+.btn.ajax_add_to_cart_button:hover:after { height: 100%; }
+#page #header .nav .cart_block { top: 50px; }
+#index ul.product_list.grid li .product-container .product-image-container .content_price { padding: 9px 0; }
+#uhu_contactus_bottom .info { padding: 0;   width: 100%;   float: right; text-align: initial; }
+@media only screen and (max-width: 767px) {
+#uhu_contactus_bottom .info{ padding: 15px; }
+ }
+@media only screen and (min-width: 768px) {
+#uhu_contactus_bottom .info { width: 50%; padding: 0 0 0 15px; }
+ }
+@media only screen and (min-width: 992px) {
+#uhu_contactus_bottom .info { width: 50%; padding: 0 0 0 15px; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_contactus_bottom .info { width: 50%; padding: 0 0 0 15px; }
+ }
+#uhu_contactus_bottom .sub_title { position: static; }
+#uhu_contactus_bottom .title_news { position: static; margin: 15px 0; }
+#top_banner .advertising .block_content ul li::after { background: none; }
+#uhu_gj_9531 ul li { margin-bottom: 0;   padding: 0; }
+#uhu_gj_9531 ul { margin: 0; }
+#uhu_reassure_top { padding-top: 50px; }
+
+#index ul.product_list.grid li .product-container .product-desc { display: none; }
+@media only screen and (max-width: 767px) {
+#index ul.product_list.grid li .product-container .product-desc { display: block; }
+ }
+#header .menu .nav_item li dl p { margin: 0; }
+.banner { position: relative;     float: left;     margin-bottom: 30px; }
+#banner_counter { position: absolute;     bottom: 10px;     width: 300px;     margin-left: 25%;     right: 50px;     padding-top: 15px;     font-size: 15px; }
+@media only screen and (max-width: 767px) {
+#banner_counter {     width: 200px;     margin-left: 0; }
+ }
+#banner_counter .countDays, .countHours, .countMinutes, .countSeconds { float: left;     width: 25%;     padding: 0 5%;     color: #FFF;     text-align: center;     margin: 0; }
+.banner .item-title { position: absolute;     top: 30px;     left: 50px;     font-size: 40px;     color: #FFF; }
+@media only screen and (max-width: 767px) {
+.banner .item-title {     left: 30px;     font-size: 25px; }
+ }
+.banner .item-html { position: absolute;     bottom: 10px;     left: 50px;     color: #FFF; }
+@media only screen and (max-width: 767px) {
+.banner .item-html {     display: none; }
+ }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+.banner .item-html {     display: none; }
+ }
+#banner_counter .position { width: 50%;     height: 40px;     line-height: 40px;     font-size: 30px; }
+#banner_counter .digit { width: 100%;     display: inline-block;     letter-spacing: 0; }
+#banner_counter .points { display: none; }
+#banner_counter .countDiv { display: none; }
+#uhu_ft_fblike .fb_fans ul li { width: 50px;     overflow: hidden; }
+@media only screen and (max-width: 767px) {
+.banner .image-container img { min-height: 230px; }
+ }
+@media only screen and (min-width: 1200px) {
+.owl-controls .owl-nav { background-image: url(../../../views/img/b017/Touch-Drag.png); }
+ }
+#uhu_qt_copyright { margin-bottom: 10px; }
+#uhu_tj_9502 #more_info_sheets ul.pd { margin: 0; }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#uhu_tj_9502 .block_content ul li.product-miniature { width: 50%; }
+ }
+@media only screen and (min-width: 1200px) {
+#uhu_tj_9502 .block_content ul li.product-miniature { width: 50%; }
+ }
+#uhu_categories_home .block_content ul li .type-image { margin-right: 0; }
+#uhu_categories_home .block_content ul li .type-category { position: absolute;     bottom: 0;     right: 15px; }
+#uhu_categories_home .block_content ul li .list-container { position: relative;     overflow: hidden; }
+@media only screen and (min-width: 1200px) {
+#index #columns #columns_home { margin: 0 auto; }
+ }
+#uhu_categories_home .block_content ul li.li2 { float: right; }
+#uhu_categories_home .block_content ul li { margin-bottom: 30px; }
+#center_column .sortPagiBar { padding: 10px 15px; }
+.footer-container #block_various_links_footer { padding: 15px 0; }
+.footer-container #block_various_links_footer ul { margin: 0;     line-height: 30px; }
+#uhu_qt_copyright span { padding: 15px 0; }
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#header_user { float: right;     width: auto; }
+ }
+@media only screen and (min-width: 1200px) {
+#header_user { float: right;     width: auto; }
+ }
+#header_user #header_user_info a i { border: none; }
+@media only screen and (max-width: 767px) {
+#header_user #header_user_info { position: absolute;     right: 0; }
+ }
+#uhuslider { margin-bottom: 0; }
+.advertising .block_content ul li .image-container:hover::after { width: 100%;   height: 100%; background: rgba(255, 255, 255, 0.20); }
+.owl-controls .owl-dots { display: none !important; }
+#index .tab-content ul li .right-block { padding-bottom: 15px; }
+
+#index ul.product_list.grid li .product-container .comments_note { position: absolute;   right: 0;   bottom: 0;   width: 100%; }
+@media only screen and (max-width: 767px) {
+#index ul.product_list.grid li .product-container .comments_note { position: static; }
+ }
+.button.ajax_add_to_cart_button span:before, .btn.ajax_add_to_cart_button span:before { display: none !important; }
+#header .nav .shopping_cart a:first-child:before { font-size: 20px; }
+
+@media only screen and (max-width: 767px) {
+#header .nav #block_cart_top { top: 90px;   right: 20px; }
+ }
+#header .nav #search_block_top #search_query_top { float: left; padding: 0 0 0 12px; }
+@media only screen and (max-width: 767px) {
+#header .nav #search_block_top #search_query_top { border-color: transparent !important; }
+ }
+#uhu_xp_9501 h4 { margin-top: 20px;   margin-bottom: 0; }
+#uhu_xp_9501 .block_content ul li .product-container .product-description-short { display: block;   height: 36px;   overflow: hidden; margin: 5px 0; }
+#index #uhu_xp_9501 .block_content ul li .product-container .new-box { left: -20px;   top: -20px; }
+#uhu_xp_9501 .block_content ul li .product-container { padding: 0; border: none; overflow: hidden; }
+#uhu_xp_9501 .block_content ul li .product-container .left-block { width: 45%;   float: left; }
+#uhu_xp_9501 .block_content ul li .product-container .right-block { width: 55%;   float: right;   text-align: initial; padding-left: 15px; }
+#uhu_xp_9501 .block_content ul li { margin-bottom: 0;   margin-top: 15px; }
+#uhu_xp_9501 .block_content ul li .product-container .product-image-container .content_price { display: none  !important; }
+#uhu_xp_9501 .block_content ul li .product-container .product-price-and-shipping { display: block; }
+#uhu_xp_9501 .block_content ul li .product-container .product-list-actions { display: none; }
+#uhu_contactus_bottom .news_content { max-width: 1180px;   margin: 0 auto; }
+@media only screen and (max-width: 767px) {
+#index ul.product_list.grid li .product-container .button-container { display: none; }
+ }
+#columns  #top_banner { margin: 0 auto; }
+#uhu_contactus_foot li i { display: inline-block;     margin-right: 10px;     width: 25px;     text-align: center;     float: left;     line-height: 36px;     height: 36px; }

@@ -1,0 +1,450 @@
+1
+color
+background_0
+background-color
+body
+#FAF7F2
+true
+Background Color
+
+2
+select
+background_1
+
+
+home page
+true
+Show Background Image
+home page|all pages
+3
+select
+background_2
+background-position
+body
+
+true
+Background Position
+top left|top center|top right|center left|center center|center right|bottom left|bottom center|bottom right
+
+select
+background_3
+background-repeat
+body
+no-repeat
+true
+Background Repeat
+|repeat|repeat-x|repeat-y|no-repeat
+
+select
+background_4
+background-size
+body
+
+true
+Background Size
+|auto|contain|cover
+
+select
+background_5
+background-attachment
+body
+
+true
+Background Attachment
+|scroll|fixed
+
+color
+background_6
+background-color
+.header-container
+
+true
+Background Color
+
+
+upload
+background_7
+background-image
+.header-container
+
+true
+Background Image
+
+
+select
+background_8
+background-position
+.header-container
+
+true
+Background Position
+top left|top center|top right|center left|center center|center right|bottom left|bottom center|bottom right
+
+select
+background_9
+background-repeat
+.header-container
+
+true
+Background Repeat
+|repeat|repeat-x|repeat-y|no-repeat
+
+select
+background_10
+background-size
+.header-container
+
+true
+Background Size
+|auto|contain|cover
+
+select
+background_11
+background-attachment
+.header-container
+
+true
+Background Attachment
+|scroll|fixed
+
+color
+background_12
+background-color
+.footer-container
+
+true
+Background Color
+
+
+upload
+background_13
+background-image
+.footer-container
+
+true
+Background Image
+
+
+select
+background_14
+background-position
+.footer-container
+
+true
+Background Position
+top left|top center|top right|center left|center center|center right|bottom left|bottom center|bottom right
+
+select
+background_15
+background-repeat
+.footer-container
+
+true
+Background Repeat
+|repeat|repeat-x|repeat-y|no-repeat
+
+select
+background_16
+background-size
+.footer-container
+
+true
+Background Size
+|auto|contain|cover
+
+select
+background_17
+background-attachment
+.footer-container
+
+true
+Background Attachment
+|scroll|fixed
+
+select
+background_18
+
+
+Static
+true
+Background Image Type
+Static|Dynamic|Parallax
+
+select
+background_19
+
+
+
+true
+Background Slider Type
+|imageAnimation1|imageAnimation2|imageAnimation3|imageAnimation4
+
+
+background_20
+
+
+
+
+Background Slider Delay
+
+
+select
+background_21
+
+
+0
+true
+Background Slider Number
+|1|2|3|4|5|6|7|8|9|10
+
+upload
+background_22
+background-image
+body
+
+true
+Background Image
+
+
+
+background_23
+background-image
+
+
+true
+Background Image
+
+
+
+background_24
+background-image
+
+
+true
+Background Image
+
+
+
+background_25
+background-image
+
+
+true
+Background Image
+
+
+
+background_26
+background-image
+
+
+true
+Background Image
+
+
+
+background_27
+background-image
+
+
+true
+Background Image
+
+
+
+background_28
+background-image
+
+
+true
+Background Image
+
+
+
+background_29
+background-image
+
+
+true
+Background Image
+
+
+
+background_30
+background-image
+
+
+true
+Background Image
+
+
+
+background_31
+background-image
+
+
+true
+Background Image
+
+
+upload
+background_32
+background-image
+
+
+true
+Background Image
+
+
+upload
+background_33
+background-image
+
+
+true
+Background Image
+
+
+upload
+background_34
+background-image
+
+
+true
+Background Image
+
+
+select
+background_35
+
+
+
+
+Image Type
+|imageScroll
+
+select
+background_36
+
+
+
+
+Image Type
+|imageScroll
+
+select
+background_37
+
+
+
+
+Image Type
+|imageScroll
+
+select
+background_38
+
+
+
+
+Breadcrumb Image Type
+|imageScroll
+
+upload
+background_39
+background-image
+
+
+true
+Background Image- default
+
+
+upload
+background_40
+background-image
+
+
+true
+Background Image - category
+
+
+upload
+background_41
+background-image
+
+
+true
+Background Image - product
+
+
+upload
+background_42
+background-image
+
+
+true
+Background Image - order
+
+
+upload
+background_43
+background-image
+
+
+true
+Background Image - sitmap
+
+
+upload
+background_44
+background-image
+
+
+true
+Background Image - contact
+
+
+upload
+background_45
+background-image
+
+
+true
+Background Image - cms
+
+
+upload
+background_46
+background-image
+
+
+true
+Background Image - stores
+
+
+
+background_47
+
+
+
+
+
+
+
+
+background_48
+
+
+
+
+
+
+
+
+background_49
+
+
+
+
+
+

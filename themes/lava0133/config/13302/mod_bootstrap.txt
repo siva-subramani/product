@@ -1,0 +1,720 @@
+topmenu
+selectresponsive
+bootstrap_0
+width
+#header .menu .nav_item li.catall dl.pop_adver
+35%
+true
+Categories: Featured
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+topmenu
+selectresponsive
+bootstrap_1
+width
+#header .menu .nav_item li.catall dl.pop_content
+65%
+true
+Categories: All
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_2
+width
+#header .menu .nav_item li.prd dl.pop_content
+65%
+true
+Products: Featured
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_3
+width
+#header .menu .nav_item li.prd dl.pop_adver
+35%
+true
+Products: Advertising
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_4
+width
+#header .menu .nav_item li.man dl.pop_content
+60%
+true
+Brands: Featured
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_5
+width
+#header .menu .nav_item li.man dl.pop_adver
+40%
+true
+Brands: All
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_6
+width
+#header .menu .nav_item li.catall dl.pop_adver dd
+30%
+true
+Categories: Featured Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_7
+width
+#header .menu .nav_item li.catall dl.pop_content dd
+25%
+true
+Categories: All Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_8
+width
+#header .menu .nav_item li.prd dl.pop_content dd
+25%
+true
+Products: Featured Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_9
+width
+#header .menu .nav_item li.man dl.pop_content dd
+30%
+true
+Brands: Featured Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_10
+width
+#header .menu .nav_item li.man dl.pop_adver dd
+50%
+true
+Brands: All Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+slider
+selectresponsive
+bootstrap_11
+width
+#uhuslider
+12/12,12/12,12/12,12/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+banner
+selectresponsive
+bootstrap_12
+width
+.banner
+12/12,12/12,12/12,12/12
+true
+Banner Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+advertising
+selectresponsive
+bootstrap_13
+width
+.advertising.aup
+12/12,12/12,12/12,12/12
+true
+Block Width Top
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+advertising
+selectresponsive
+bootstrap_14
+width
+.advertising.abw
+12/12,12/12,12/12,12/12
+true
+Block Width Bottom
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+banner
+selectresponsive
+bootstrap_15
+
+
+12,12,12,12
+true
+Countdown Block Grids Top
+|1|2|3|4|5|6|7|8|9|10|11|12
+news
+selectresponsive
+bootstrap_16
+width
+.contactus.news
+12/12,12/12,12/12,12/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+news
+selectresponsive
+bootstrap_17
+
+
+1,1,2,2
+true
+Slider Items
+|1|2|3|4|5|6|7|8|9|10|11|12
+reassurance
+selectresponsive
+bootstrap_18
+width
+.reassure
+12/12,12/12,12/12,12/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+slider
+selectresponsive
+bootstrap_19
+width
+#uhuslider .block_content ul li .slide_content
+80%,80%,80%,80%
+true
+Text Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+slider
+selectresponsive
+bootstrap_20
+top
+#uhuslider .block_content ul li .slide_content
+20%,20%,20%,20%
+true
+Text Top
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+slider
+selectresponsive
+bootstrap_21
+left
+#uhuslider .block_content ul li .slide_content
+10%,10%,10%,10%
+true
+Text Left
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_22
+width
+#header .menu .nav_item li.news dl.pop_content
+75%
+true
+News: Hot News
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_23
+width
+#header .menu .nav_item li.news dl.pop_adver
+25%
+true
+News: Featured CMS
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_24
+width
+#header .menu .nav_item li.news dl.pop_content .image
+45%
+true
+News: Image
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_25
+width
+#header .menu .nav_item li.news dl.pop_content .content
+45%
+true
+News: Content
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+reassurance
+selectresponsive
+bootstrap_26
+width
+.reassure .item
+12/12,6/12,3/12,3/12
+true
+Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+copyright
+selectresponsive
+bootstrap_27
+width
+.copyright
+12/12,12/12,12/12,12/12
+true
+Block Grids
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+information
+selectresponsive
+bootstrap_28
+width
+.information
+12/12,12/12,12/12,12/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+social
+selectresponsive
+bootstrap_29
+width
+.social
+12/12,6/12,3/12,3/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+account
+selectresponsive
+bootstrap_30
+width
+.myaccount
+12/12,6/12,3/12,3/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+contact
+selectresponsive
+bootstrap_31
+width
+#uhu_contactus, .contactus
+12/12,6/12,3/12,3/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+facebook
+selectresponsive
+bootstrap_32
+
+
+12,6,3,3
+true
+Block Grids
+|1|2|3|4|5|6|7|8|9|10|11|12
+topmenu
+selectresponsive
+bootstrap_33
+width
+#header .menu .nav_item li.cat dl.pop_content
+60%
+true
+Custom: Categories
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_34
+width
+#header .menu .nav_item li.cat dl.pop_adver
+40%
+true
+Custom: Advertising
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+topmenu
+selectresponsive
+bootstrap_35
+width
+#header .menu .nav_item li.cat dl.pop_content dd
+30%
+true
+Custom: Categories Single
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%
+slider
+selectresponsive
+bootstrap_36
+height
+#uhuslider .block_content .loading
+230px,330px,330px,470px
+true
+Loading Screen Height
+200px|210px|220px|230px|240px|250px|260px|270px|280px|290px|300px|310px|320px|330px|340px|350px|360px|370px|380px|390px|400px|410px|420px|430px|440px|450px|460px|470px|480px|490px|500px|510px|520px|530px|540px|550px|560px|590px|580px|600px
+reatop
+selectresponsive
+bootstrap_37
+
+
+12,6,6,6
+true
+Custom Block Header
+|1|2|3|4|5|6|7|8|9|10|11|12
+reatop
+selectresponsive
+bootstrap_38
+
+
+4,4,4,4
+true
+Item Grids
+|1|2|3|4|5|6|7|8|9|10|11|12
+service
+selectresponsive
+bootstrap_39
+width
+.service
+12/12,6/12,3/12,3/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+extra
+selectresponsive
+bootstrap_40
+width
+.extra
+12/12,6/12,3/12,3/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+newsletter
+selectresponsive
+bootstrap_41
+
+
+12/12,4/12,3/12,3/12
+true
+Block Grids
+|1|2|3|4|5|6|7|8|9|10|11|12
+news
+selectresponsive
+bootstrap_42
+width
+.contactus.news .block_content ul li
+12/12,12/12,12/12,12/12
+true
+Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_43
+width
+#uhu_tj_9502
+12/12,12/12,12/12,12/12
+true
+CatPrd Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_44
+width
+#uhu_tj_9502 .product-layout
+12/12,4/12,4/12,2/12
+true
+CatPrd Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_45
+
+
+1,2,3,4
+true
+CatPrd Item for slider
+|1|2|3|4|5|6|7|8|9|10|11|12
+categories
+selectresponsive
+bootstrap_46
+width
+#uhu_categories_home
+12/12,12/12,12/12,12/12
+true
+Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+categories
+selectresponsive
+bootstrap_47
+width
+#uhu_categories_home ul li
+12/12,6/12,4/12,4/12
+true
+Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+logo
+selectresponsive
+bootstrap_48
+
+
+
+true
+Block Grids
+|1|2|3|4|5|6|7|8|9|10|11|12
+product
+selectresponsive
+bootstrap_49
+width
+#uhu_xp_9502
+12/12,12/12,12/12,12/12
+true
+Featured Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_50
+width
+#uhu_xp_9502 .product-layout.cols
+100%,50%,25%,25%
+true
+Featured Block Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_51
+width
+#uhu_xp_9501
+12/12,9/12,9/12,9/12
+true
+New Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_52
+
+
+2,3,4,4
+true
+Slider Items
+|1|2|3|4|5|6|7|8|9|10|11|12
+product
+selectresponsive
+bootstrap_53
+width
+#uhu_cp_1901
+12/12,3/12,3/12,3/12
+true
+Best Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_54
+width
+#uhu_cp_1901 .product-layout
+12/12,12/12,12/12,12/12
+true
+Item Grid Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_55
+
+
+12,12,12,12
+true
+banner Grids
+|1|2|3|4|5|6|7|8|9|10|11|12
+product
+selectresponsive
+bootstrap_56
+width
+#uhu_xp_9501 .product-layout
+6/12,6/12,3/12,3/12
+true
+New Block Item Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+setting
+selectresponsive
+bootstrap_57
+
+
+
+true
+Width
+|810|850|890|930|970|1010|1050|1090|1130|1170|1210|1250|1290|1330|1370|1410|1450|1490|1530|1570|1610|1650|1690|1730|1770|1810|1850|1890|100%
+banner
+selectresponsive
+bootstrap_58
+
+
+
+true
+Block Grids Top
+|1|2|3|4|5|6|7|8|9|10|11|12
+banner
+selectresponsive
+bootstrap_59
+
+
+
+true
+Block Grids Topcolumn
+|1|2|3|4|5|6|7|8|9|10|11|12
+banner
+selectresponsive
+bootstrap_60
+width
+#uhu_singletop
+12/12,3/12,3/12,3/12
+true
+Single advertising Top Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+banner
+selectresponsive
+bootstrap_61
+width
+#uhu_singlebot
+12/12,3/12,3/12,3/12
+true
+Single advertising Bottom Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+count
+selectresponsive
+bootstrap_62
+width
+
+
+true
+Block Width
+|1|2|3|4|5|6|7|8|9|10|11|12
+count
+selectresponsive
+bootstrap_63
+width
+
+
+true
+Item Width
+|1|2|3|4|5|6|7|8|9|10|11|12
+category page
+selectresponsive
+bootstrap_64
+width
+#products .product-layout
+
+true
+Product Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+category page
+selectresponsive
+bootstrap_65
+width
+#category #left-column, #prices-drop #left-column, #best-sales #left-column, #new-products #left-column
+
+true
+Left Column Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+category page
+selectresponsive
+bootstrap_66
+width
+#category #content-wrapper, #prices-drop #content-wrapper, #best-sales #content-wrapper, #new-products #content-wrapper
+
+true
+Content Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+contact
+selectresponsive
+bootstrap_67
+width
+.contactus .image
+100%
+true
+Logo Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+contact
+selectresponsive
+bootstrap_68
+width
+.contactus .info-content
+12/12,12/12,12/12,12/12
+true
+Info Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+contact
+selectresponsive
+bootstrap_69
+width
+.contactus .address-content
+12/12,12/12,12/12,12/12
+true
+Contacr Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_70
+width
+#uhu_specials
+12/12,3/12,3/12,3/12
+true
+Special Block Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_71
+width
+#uhu_specials .product-layout
+100%
+true
+Item Grid Width
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_72
+
+
+1,1,1,1
+true
+Slider Items
+|1|2|3|4|5|6|7|8|9|10|11|12
+product
+selectresponsive
+bootstrap_73
+
+
+
+true
+Slider Items
+|1|2|3|4|5|6|7|8|9|10|11|12
+product
+selectresponsive
+bootstrap_74
+width
+#uhu_tj_9502 .products_block
+12/12,6/12,3/12,3/12
+true
+Product Tab Block
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_75
+width
+#home-page-tab
+12/12,12/12,12/12,12/12
+true
+Four Product Block
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+product
+selectresponsive
+bootstrap_76
+width
+#home-page-tab .product-layout
+6/12,4/12,3/12,3/12
+true
+Four Product Item
+|0|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12|12/12
+
+
+bootstrap_77
+
+
+
+
+
+
+
+
+bootstrap_78
+
+
+
+
+
+
+
+
+bootstrap_79
+
+
+
+
+
+
